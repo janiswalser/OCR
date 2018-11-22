@@ -24,4 +24,4 @@ Microgestural
 Interactions
 -------------- Done --------------
 ```
-![](OCR/test.png)
+
