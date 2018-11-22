@@ -3,7 +3,7 @@
 
 ## OCR
 Optical Character Recognition
-**Javascript Tutorium 2018/2019 at the [Hochschule für Gestaltung Schwäbisch Gmünd](https://www.hfg-gmuend.de), November 2018.**
+**Too lazy of copying word or sentences from pictures? Fucked up because your colleagues sent you a jpg instead of a pdf? –Then download the script and let the silver magic machine work for you.**
 
 
 
